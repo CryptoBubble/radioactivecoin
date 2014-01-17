@@ -23,7 +23,7 @@ class CRequestTracker;
 class CNode;
 class CBlockIndex;
 extern int nBestHeight;
-
+extern int64 nBestHeightTime;
 
 
 inline unsigned int ReceiveBufferSize() { return 1000*GetArg("-maxreceivebuffer", 5*1000); }
