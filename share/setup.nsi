@@ -10,7 +10,7 @@ SetCompressor /SOLID lzma
 !define URL http://www.TODO: .ru/
 
 # MUI Symbol Definitions
-!define MUI_ICON "../share/pixmaps/Radioactivecoin.ico"
+!define MUI_ICON "../share/pixmaps/radioactivecoin.ico"
 !define MUI_WELCOMEFINISHPAGE_BITMAP "../share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
