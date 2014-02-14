@@ -27,13 +27,20 @@ Block Rewards
 2000000  10* COIN  
 
 Pools
+http://radioactivecoin.miners-point.com/
 http://rad.minersbest.com
-http://rad.blocksolved.com
-http://radioactive.ecoining.com
-http://rad.cipherpool.com
+http://rad.blocksolved.com/
+http://radioactive.ecoining.com/
+rad.cipherpool.com
 
 Exchange
 https://openex.pw/index.php?page=trade&market=88
+https://freshmarket.co.in
+https://cryptorush.in/
+
+Alpha Apps
+Android Link http://radioactivecoin.com/apps/android/75f5b7a689e5.apk
+iOS Link http://radioactivecoin.com/apps/ios/75f5b7a689e5.ipa
 
 Official Site and Forums:
 http://radioactivecoin.com
@@ -43,7 +50,7 @@ http://ru.radioactivecoin.com
 http://cn.radioactivecoin.com
 
 Twitter:
- https://twitter.com/Radioactivecoin
+https://twitter.com/Radioactivecoin
 
 Facebook
 http://facebook.com/radioactivecoin
@@ -62,17 +69,30 @@ Radioactivecoin GPU Miner
 https://mega.co.nz/#!KJVg1JSb!b_lkeFv3UgwhMhuePTP-ljWsV8la7aWfYunGAxrzNgk
 https://www.mediafire.com/?7zdiw72dwh7jsmc
 
+Block Explorer
+http://radexplorer.minersbest.com/
+http://altexplorer.info/chains/RAD/block_crawler.
+
 Source
 https://github.com/CryptoBubble/radioactivecoin
 
-Block Explorer
-http://radexplorer.minersbest.com/
+Trade
+http://cryptotc.us/
+
+Store
+http://cryptosmack.com/store
+
+Paper Wallet 
+http://cryptolife.net/paperwallet/RAD.html
+
+Faucet
+http://radcoinfaucet.tk/radcoinfaucet/index.php
 
 Lotto
 http://radioactivetik.tk/
 
-Give-aways
-https://bitcointalk.org/index.php?topic=405496.0
+Wiki
+http://wiki.cryptsy.com/rad
 
 Before mining you will need to create a config file in the appdata/roaming/radioactivecoin folder. To create a config, left click on the folder, select new text doument. Copy the config file below changing username and password. This username and password will be used in the solo mining config file. Save as "all document types" not "text files". Your client will need to be restarted for this to take effect.
 
